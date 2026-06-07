@@ -11,5 +11,4 @@
 # - Scratch Model
 # - Hybrid Model
 # 
-# Currently working on the thermal friction imbalance model and creating
-# rotating temperature bands on the ice
+# Currently working on the thermal friction imbalance model and creating rotating temperature bands on the ice
