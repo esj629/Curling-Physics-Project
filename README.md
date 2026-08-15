@@ -4,13 +4,13 @@
 # Current Models:
 # - Basic, includes translational and rotational friction
 # - Thermal Friction Imbalance, making the stone curl by modelling temperature bands on the ice
+# - Pebble Friction Imbalance, pebbles on the ice changing the stone's motion
+# - Pivot Slide Model, curling stone pivots around pebbles on the ice creating a curl
 #
 # Future Models:
-# - Friction imbalance caused by the presence of pebbles
-# - Pivot Slide Model
 # - Scratch Model
-# - Further thermal model
+# - Further friction imbalance model
 # - Hybrid Model
 # - Analysis of all the models
 # 
-# Currently working on the pebble friction imbalance model
+# Currently working on the scratch model
