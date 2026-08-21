@@ -6,11 +6,11 @@
 # - Thermal Friction Imbalance, making the stone curl by modelling temperature bands on the ice
 # - Pebble Friction Imbalance, pebbles on the ice changing the stone's motion
 # - Pivot Slide Model, curling stone pivots around pebbles on the ice creating a curl
+# - Scratch Model, scratches created by the front of the curling stone exert a force on the back of the stone causing a curl
 #
 # Future Models:
-# - Scratch Model
 # - Further friction imbalance model
 # - Hybrid Model
 # - Analysis of all the models
 # 
-# Currently working on the scratch model
+# Currently working on the Friction Imbalance Model
